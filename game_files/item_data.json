@@ -1,0 +1,15 @@
+{
+    "Juicy Apple": {
+        "Description": "Restores 5 HP, single use",
+        "Type": "Healing", 
+        "Amount": 5,
+        "Uses": 1
+    },
+
+    "Iron Sword": {
+        "Description": "Increases damage by 3",
+        "Type": "Damage", 
+        "Amount": 3,
+        "Uses": null
+    }
+}

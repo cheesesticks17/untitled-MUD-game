@@ -1,0 +1,30 @@
+{
+    "Room 0": {
+        "Name": "Castle Entrance",
+        "Description": "The castle looms ahead. \nThe gate is wide open, but you feel hesitant to enter.",
+        "Creatures": {},
+        "Items": {"Juicy Apple": 1}, 
+        "Exits": {
+            "North": "Room 1",
+            "East": "Room 2"
+        }
+    }, 
+    "Room 1": {
+        "Name": "Staircase Hall",
+        "Description": "The room is bathed in an ominous light. \nStaircases lead up to the second floor.",
+        "Creatures": {"Ghost": 1},
+        "Items": {},
+        "Exits": {
+            "South": "Room 0"
+        }
+    }, 
+    "Room 2": {
+        "Name": "Rose Garden",
+        "Description": "",
+        "Creatures": {},
+        "Items": {},
+        "Exits": {
+            "West": "Room 0"
+        }
+    }
+}
