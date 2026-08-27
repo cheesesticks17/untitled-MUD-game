@@ -1,0 +1,11 @@
+{
+    "Ghost": {
+        "Description": "A Ghost suddenly ambushes you!",
+        "Health": 5,
+        "Attack": 2,
+        "Attack_Message": ["The Ghost throws things at you,", 
+                            "The Ghost rushes at you,",
+                            "The Ghost floats around you,"],
+        "Defeat_Message": "The Ghost floats away..."
+    }
+}
